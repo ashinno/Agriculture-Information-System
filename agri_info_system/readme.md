@@ -1,0 +1,2 @@
+
+The Agriculture Information System (AIS) is a platform designed to provide farmers in the Central African Republic (CAR) with real-time information that can help them improve their agricultural practices, increase productivity, and access better market opportunities. 
